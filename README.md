@@ -26,7 +26,7 @@ Please answer the following questions below, you may edit the readme file to inc
 1. How would you describe acessibility on the web to someone new to programming?
 Accessability means to make the website easily accessable for the people with disability or special needs.
 2. Talk about 3 different things you can do to ensure your website is accessible. 
-make sure alt tages are written in, code is clear and concise.
+make sure alt tages are written in, code is clear and concise., make sure to use semantic tags for more screen reader accessablities.
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 

@@ -127,6 +127,16 @@ button:hover{
     margin:0 auto;
 }
 
+@media only screen and (max-width: 500px) {
+    .artists-container {
+        display:flex;
+        justify-content: space-around;
+        flex-flow: column wrap;
+        width:80%;
+        margin:0 auto;
+    }
+  }
+
 .artist{
     width:40%;
     text-align:center;

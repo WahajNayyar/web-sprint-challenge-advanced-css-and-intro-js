@@ -28,7 +28,9 @@ Accessability means to make the website easily accessable for the people with di
 2. Talk about 3 different things you can do to ensure your website is accessible. 
 make sure alt tages are written in, code is clear and concise., make sure to use semantic tags for more screen reader accessablities.
 3. How would you explain the concept of a variable to someone new to programming?
+I would tell them to think of a variable as storage containers with labels.
 4. What is the purpose of using functions in code?
+they allow us to write less code and do more, they allow us to make sure we dont repeat the code again and again. We can also use them to do complex calcuations and save time.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
